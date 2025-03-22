@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=904FF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Nur+Aiman+Zaharin;Software+Engineer+%7C+Web+Developer;Database+Management+%7C+Multimedia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=904FF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Zahar;Software+Engineer+%7C+Web+Developer;Database+Management+%7C+Multimedia" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/nuraiman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nuraiman">
+  <a href="https://github.com/AnthonyMuncherz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nuraiman&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AnthonyMuncherz&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
@@ -26,14 +26,14 @@
 
 ## 👨‍💻 About Me
 ```javascript
-const nurAiman = {
+const Zahar = {
   born: "August 6, 2001",
   education: "Bachelor of Software Engineering (Current)",
   location: "Shah Alam, Malaysia",
   interests: ["Web Development", "Database Management", 
               "UI/UX Design", "Problem Solving"],
-  currentFocus: "Seeking internship opportunities",
-  funFact: "Converting caffeine into code since 2017"
+  currentFocus: "Making random project but never finishes it ",
+  funFact: "Caffine makes me sleepy"
 };
 ```
 
@@ -175,14 +175,14 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/nuraiman">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuraiman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraiman&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/AnthonyMuncherz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyMuncherz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMuncherz&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuraiman&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMuncherz&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -191,12 +191,10 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraiman&repo=project-name&theme=radical)](https://github.com/nuraiman/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nuraiman&repo=another-project&theme=radical)](https://github.com/nuraiman/another-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMuncherz&repo=Factions&theme=radical)](https://github.com/AnthonyMuncherz/Factions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMuncherz&repo=kvks&theme=radical)](https://github.com/AnthonyMuncherz/kvks)
 
 </div>
-
-> Note: Replace "project-name" and "another-project" with actual repositories once created
 
 ---
 
@@ -228,7 +226,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 <div align="center">
   <h3>💬 Let's Connect & Collaborate!</h3>
   
-  <p>"The only way to do great work is to love what you do." — Steve Jobs</p>
+  <p>"AMBASSING!!!" — Dreamybull</p>
   
   ![Wave Animation](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 </div>
