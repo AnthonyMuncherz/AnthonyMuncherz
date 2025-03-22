@@ -201,7 +201,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 ## 📫 Get In Touch
 
 <div align="center">
-  <img src="https://i.imgur.com/37DT9GP.png" width="500" alt="Contact Banner">
+  <img src="https://i.pinimg.com/originals/23/51/bc/2351bc65b2b5d75cef146b7edddf805b.gif" width="500" alt="Contact Banner">
 </div>
 
 <div align="center">
@@ -212,7 +212,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
     </tr>
     <tr>
       <td><b>💼 LinkedIn:</b></td>
-      <td><a href="https://www.linkedin.com/in/nuraiman">linkedin.com/in/nuraiman</a></td>
+      <td><a href="https://www.linkedin.com/in/namia-nira-494a01231/">linkedin.com/in/zahar</a></td>
     </tr>
     <tr>
       <td><b>🌐 Location:</b></td>
