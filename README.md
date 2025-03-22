@@ -133,6 +133,60 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 
 ---
 
+## 🏢 Business & Services
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CEO-AIMANBRELLA%20ENTERPRISE-blue?style=for-the-badge" alt="CEO"/>
+  <p><b>AIMANBRELLA ENTERPRISE</b> 202403249593 (003649790-D)</p>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img align="right" width="300" src="https://i.imgur.com/QvHwqrs.png" alt="Student Helper"/>
+  </div>
+  <div style="flex: 2;">
+    <h3>🧑‍💻 StudentCodeHelper</h3>
+    <p><i>Perlu bantuan coding? StudentCodeHelper sedia membantu!</i></p>
+    <p>🇲🇾 Khas untuk pelajar Malaysia</p>
+    
+    <table>
+      <tr>
+        <td><b>✅ Services:</b></td>
+        <td>
+          • Assignment development in Java, Python, C++ & JavaScript<br>
+          • Final year projects<br>
+          • Database & SQL assistance<br>
+          • UML Diagrams (class, sequence, activity & use case)
+        </td>
+      </tr>
+      <tr>
+        <td><b>💯 Benefits:</b></td>
+        <td>
+          ✓ Guaranteed quality<br>
+          ⏰ On-time delivery<br>
+          💸 Student-friendly prices
+        </td>
+      </tr>
+    </table>
+    
+    <p><b>🌐 Website:</b> <a href="http://web.umbrellacorps.tech">web.umbrellacorps.tech</a></p>
+  </div>
+</div>
+
+<details>
+<summary><b>Why Choose StudentCodeHelper?</b></summary>
+<br>
+
+- **Expert Assistance**: Professional help tailored to Malaysian curriculum requirements
+- **Thorough Documentation**: All projects come with detailed documentation
+- **Learning Opportunity**: Explanations and comments to help you understand the code
+- **Confidentiality**: Your information and work remain private
+- **Affordable Plans**: Different packages to suit various budget needs
+
+</details>
+
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
