@@ -140,48 +140,46 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
   <p><b>AIMANBRELLA ENTERPRISE</b> 202403249593 (003649790-D)</p>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img align="right" width="300" src="https://i.imgur.com/QvHwqrs.png" alt="Student Helper"/>
-  </div>
-  <div style="flex: 2;">
-    <h3>🧑‍💻 StudentCodeHelper</h3>
-    <p><i>Perlu bantuan coding? StudentCodeHelper sedia membantu!</i></p>
-    <p>🇲🇾 Khas untuk pelajar Malaysia</p>
-    
-    <table>
-      <tr>
-        <td><b>✅ Services:</b></td>
-        <td>
-          • Assignment development in Java, Python, C++ & JavaScript<br>
-          • Final year projects<br>
-          • Database & SQL assistance<br>
-          • UML Diagrams (class, sequence, activity & use case)
-        </td>
-      </tr>
-      <tr>
-        <td><b>💯 Benefits:</b></td>
-        <td>
-          ✓ Guaranteed quality<br>
-          ⏰ On-time delivery<br>
-          💸 Student-friendly prices
-        </td>
-      </tr>
-    </table>
-    
-    <p><b>🌐 Website:</b> <a href="http://web.umbrellacorps.tech">web.umbrellacorps.tech</a></p>
-  </div>
+### 🧑‍💻 StudentCodeHelper
+
+<div align="center">
+  <h4><i>Perlu bantuan coding? StudentCodeHelper sedia membantu!</i></h4>
+  <p>🇲🇾 Khas untuk pelajar Malaysia</p>
 </div>
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://i.imgur.com/lUFQbTr.png" width="100%" alt="Student Helper"/>
+    </td>
+    <td width="50%">
+      <h4>✅ Services:</h4>
+      <ul>
+        <li>📝 Assignment development in Java, Python, C++ & JavaScript</li>
+        <li>🎓 Final year projects</li>
+        <li>💾 Database & SQL assistance</li>
+        <li>📊 UML Diagrams (class, sequence, activity & use case)</li>
+      </ul>
+      <h4>💯 Benefits:</h4>
+      <ul>
+        <li>✓ Guaranteed quality</li>
+        <li>⏰ On-time delivery</li>
+        <li>💸 Student-friendly prices</li>
+      </ul>
+      <p><b>🌐 Website:</b> <a href="http://web.umbrellacorps.tech">web.umbrellacorps.tech</a></p>
+    </td>
+  </tr>
+</table>
+
 <details>
-<summary><b>Why Choose StudentCodeHelper?</b></summary>
+<summary><b>🤔 Why Choose StudentCodeHelper?</b></summary>
 <br>
 
-- **Expert Assistance**: Professional help tailored to Malaysian curriculum requirements
-- **Thorough Documentation**: All projects come with detailed documentation
-- **Learning Opportunity**: Explanations and comments to help you understand the code
-- **Confidentiality**: Your information and work remain private
-- **Affordable Plans**: Different packages to suit various budget needs
+- **🎯 Expert Assistance**: Professional help tailored to Malaysian curriculum requirements
+- **📚 Thorough Documentation**: All projects come with detailed documentation
+- **🧠 Learning Opportunity**: Explanations and comments to help you understand the code
+- **🔒 Confidentiality**: Your information and work remain private
+- **💰 Affordable Plans**: Different packages to suit various budget needs
 
 </details>
 
