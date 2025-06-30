@@ -140,48 +140,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
   <p><b>AIMANBRELLA ENTERPRISE</b> 202403249593 (003649790-D)</p>
 </div>
 
-### 🧑‍💻 StudentCodeHelper
 
-<div align="center">
-  <h4><i>Perlu bantuan coding? StudentCodeHelper sedia membantu!</i></h4>
-  <p>🇲🇾 Khas untuk pelajar Malaysia</p>
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://i.imgur.com/lUFQbTr.png" width="100%" alt="Student Helper"/>
-    </td>
-    <td width="50%">
-      <h4>✅ Services:</h4>
-      <ul>
-        <li>📝 Assignment development in Java, Python, C++ & JavaScript</li>
-        <li>🎓 Final year projects</li>
-        <li>💾 Database & SQL assistance</li>
-        <li>📊 UML Diagrams (class, sequence, activity & use case)</li>
-      </ul>
-      <h4>💯 Benefits:</h4>
-      <ul>
-        <li>✓ Guaranteed quality</li>
-        <li>⏰ On-time delivery</li>
-        <li>💸 Student-friendly prices</li>
-      </ul>
-      <p><b>🌐 Website:</b> <a href="http://web.umbrellacorps.tech">web.umbrellacorps.tech</a></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🤔 Why Choose StudentCodeHelper?</b></summary>
-<br>
-
-- **🎯 Expert Assistance**: Professional help tailored to Malaysian curriculum requirements
-- **📚 Thorough Documentation**: All projects come with detailed documentation
-- **🧠 Learning Opportunity**: Explanations and comments to help you understand the code
-- **🔒 Confidentiality**: Your information and work remain private
-- **💰 Affordable Plans**: Different packages to suit various budget needs
-
-</details>
 
 ---
 
@@ -194,7 +153,9 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   <h3>🗄️ Databases</h3>
@@ -228,7 +189,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,mysql,git,github,vscode,photoshop,premiere&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,bootstrap,mysql,git,github,vscode,photoshop,premiere&perline=8" />
   </a>
 </div>
 
@@ -238,7 +199,7 @@ I'm a fresh graduate passionate about creating meaningful digital experiences. W
 
 | Frontend | Backend | CMS & Frameworks | Databases |
 |---|---|---|---|
-| <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> | <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img alt="MSSQL" src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> |
+| <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> | <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img alt="MSSQL" src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> |
 
 </details>
 
